@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+fastai
+pillow
+scikit-image
+openpyxl
+pandas
