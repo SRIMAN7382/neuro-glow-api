@@ -1,7 +1,8 @@
 fastai==2.7.12
-pillow
-fastapi
-uvicorn
 scikit-image
 openpyxl
 pandas
+gradio==3.44.3
+fastapi
+uvicorn
+pillow
